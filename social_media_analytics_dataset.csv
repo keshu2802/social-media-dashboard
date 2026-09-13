@@ -1,0 +1,101 @@
+PostID,Platform,ContentType,PostDate,Likes,Comments,Shares,Reach,Hashtags,Followers
+P1,Instagram,Story,01-01-2024,910,737,476,18532,"#tech, #food",41941
+P2,Instagram,Text,04-01-2024,3822,814,237,6039,"#tech, #music, #health",5495
+P3,Facebook,Story,07-01-2024,3142,108,696,10137,"#fitness, #health, #tech, #food",11893
+P4,Twitter,Text,10-01-2024,516,693,117,16086,"#fitness, #data, #fun",26547
+P5,Twitter,Reel,13-01-2024,4476,881,501,3057,"#fun, #music",23386
+P6,Twitter,Text,16-01-2024,3494,735,446,6092,"#tech, #AI",14403
+P7,Instagram,Image,19-01-2024,3221,996,568,16982,"#music, #data, #fitness",33097
+P8,Instagram,Image,22-01-2024,2969,556,272,2700,"#fun, #fitness, #health",14121
+P9,YouTube,Text,25-01-2024,180,970,514,14672,"#fun, #health, #fitness, #tech",11966
+P10,Instagram,Reel,28-01-2024,1735,748,390,3461,"#AI, #tech",34621
+P11,Instagram,Reel,31-01-2024,819,622,391,14707,"#music, #data, #tech",29312
+P12,Instagram,Image,03-02-2024,2441,952,117,12469,"#AI, #tech",23677
+P13,Twitter,Reel,06-02-2024,2483,471,617,3369,"#tech, #travel",32289
+P14,Twitter,Story,09-02-2024,1234,652,629,17840,"#travel, #tech, #music",32024
+P15,Instagram,Video,12-02-2024,4605,778,85,14492,"#data, #travel",43675
+P16,Twitter,Story,15-02-2024,3435,14,703,6199,"#health, #fun",5777
+P17,YouTube,Image,18-02-2024,4167,227,117,4487,"#food, #health",30749
+P18,Twitter,Reel,21-02-2024,4893,512,6,13946,"#education, #music",16338
+P19,YouTube,Text,24-02-2024,2954,776,646,1718,"#fun, #AI, #health, #travel",3491
+P20,Facebook,Video,27-02-2024,524,407,224,5235,"#AI, #fitness",28236
+P21,Instagram,Text,01-03-2024,1132,880,570,11796,"#fitness, #data, #tech, #health",49096
+P22,Twitter,Image,04-03-2024,2608,804,740,5055,"#data, #health, #fitness, #education",15599
+P23,YouTube,Reel,07-03-2024,2097,402,229,9646,"#education, #fun, #food, #AI",20508
+P24,Facebook,Text,10-03-2024,2797,216,389,8550,"#food, #data",4051
+P25,Facebook,Text,13-03-2024,1025,24,407,13257,"#tech, #AI, #travel",49747
+P26,Twitter,Video,16-03-2024,1856,867,642,17929,"#food, #fitness, #health",22606
+P27,Twitter,Video,19-03-2024,239,563,134,7393,"#education, #fitness, #fun",22699
+P28,Facebook,Reel,22-03-2024,2784,901,57,18577,"#data, #fun, #travel, #fitness",1876
+P29,Instagram,Video,25-03-2024,3055,470,688,14873,"#fitness, #data, #food",33093
+P30,Instagram,Text,28-03-2024,4708,700,734,15065,"#AI, #music, #travel",5142
+P31,YouTube,Text,31-03-2024,1949,584,676,3936,"#fun, #health, #travel, #food",16202
+P32,Instagram,Image,03-04-2024,1317,873,714,9254,"#AI, #travel",40734
+P33,Facebook,Text,06-04-2024,1578,752,420,11177,"#fitness, #fun",8079
+P34,Facebook,Reel,09-04-2024,3252,250,251,6395,"#travel, #education",8987
+P35,Facebook,Story,12-04-2024,3606,573,443,17109,"#data, #food, #education, #fun",40567
+P36,Instagram,Image,15-04-2024,3940,105,207,16136,"#travel, #fun, #music, #AI",29940
+P37,YouTube,Image,18-04-2024,696,909,188,7522,"#fitness, #tech",38233
+P38,Instagram,Reel,21-04-2024,2938,743,127,9651,"#health, #education, #food",18019
+P39,YouTube,Reel,24-04-2024,2485,494,405,6100,"#travel, #AI",47185
+P40,Instagram,Video,27-04-2024,650,416,771,8496,"#music, #fun, #tech, #travel",19077
+P41,Facebook,Image,30-04-2024,2413,240,298,9507,"#fitness, #education",27258
+P42,Facebook,Video,03-05-2024,2111,758,284,13446,"#AI, #fun, #health, #tech",22136
+P43,Twitter,Text,06-05-2024,291,664,614,5142,"#education, #fun, #AI",9311
+P44,Instagram,Image,09-05-2024,2091,180,202,11812,"#AI, #health, #travel",18214
+P45,Instagram,Image,12-05-2024,2874,550,515,8179,"#health, #food, #data",15098
+P46,Twitter,Story,15-05-2024,2662,45,756,8708,"#data, #fitness, #food, #tech",29251
+P47,Facebook,Image,18-05-2024,1413,534,148,19089,"#tech, #AI, #data, #education",38945
+P48,Instagram,Text,21-05-2024,1528,169,613,11216,"#AI, #tech",48030
+P49,Twitter,Video,24-05-2024,2606,848,205,17953,"#AI, #food",26945
+P50,Instagram,Video,27-05-2024,825,708,128,3944,"#data, #travel, #AI",26316
+P51,YouTube,Story,30-05-2024,4064,252,191,11257,"#fitness, #tech, #health, #fun",33217
+P52,Facebook,Text,02-06-2024,84,95,330,14934,"#data, #education, #music",9308
+P53,YouTube,Video,05-06-2024,3202,805,468,1560,"#travel, #data, #fun",6949
+P54,Facebook,Reel,08-06-2024,2005,587,353,19211,"#data, #tech",2150
+P55,Twitter,Text,11-06-2024,1635,691,775,3920,"#travel, #fitness, #education",24944
+P56,Facebook,Text,14-06-2024,3993,566,664,801,"#fun, #tech, #food",35699
+P57,Facebook,Story,17-06-2024,3123,583,768,12968,"#fitness, #travel",10204
+P58,Twitter,Video,20-06-2024,1071,962,407,17490,"#education, #travel",2081
+P59,Facebook,Text,23-06-2024,3511,655,350,1199,"#fitness, #tech",30305
+P60,Instagram,Video,26-06-2024,2663,805,515,690,"#food, #tech, #fitness",17896
+P61,Twitter,Reel,29-06-2024,3893,37,151,10992,"#education, #data, #travel",47175
+P62,Twitter,Story,02-07-2024,1550,629,152,17864,"#tech, #health",8805
+P63,Twitter,Reel,05-07-2024,4848,565,715,3475,"#fun, #data, #food, #education",6237
+P64,YouTube,Story,08-07-2024,211,349,493,6602,"#food, #education",21056
+P65,YouTube,Text,11-07-2024,4347,807,644,18068,"#fitness, #travel, #fun, #food",46543
+P66,Facebook,Story,14-07-2024,2031,967,555,2316,"#food, #tech, #travel",46952
+P67,Twitter,Image,17-07-2024,1045,340,342,1069,"#AI, #data, #tech, #food",4343
+P68,Facebook,Video,20-07-2024,4961,649,645,5942,"#AI, #travel, #tech",14500
+P69,Instagram,Video,23-07-2024,3392,515,783,2395,"#health, #travel, #fun, #fitness",30375
+P70,Twitter,Image,26-07-2024,4601,357,477,19617,"#education, #food, #music",10662
+P71,Instagram,Reel,29-07-2024,3848,482,155,4363,"#music, #data, #education",17964
+P72,Facebook,Image,01-08-2024,1325,240,419,13413,"#AI, #fitness, #travel, #music",48893
+P73,YouTube,Text,04-08-2024,1066,199,302,7955,"#education, #food, #fitness, #tech",9130
+P74,Facebook,Text,07-08-2024,387,234,615,4514,"#travel, #data",20531
+P75,Instagram,Video,10-08-2024,928,394,267,11593,"#AI, #health",2679
+P76,Twitter,Text,13-08-2024,1126,386,768,18570,"#data, #music",4506
+P77,Facebook,Video,16-08-2024,4937,292,148,3509,"#fitness, #music, #tech, #food",14284
+P78,Twitter,Image,19-08-2024,4043,967,350,17038,"#data, #tech, #music, #education",8253
+P79,YouTube,Image,22-08-2024,4909,642,628,11229,"#AI, #health",20128
+P80,YouTube,Image,25-08-2024,429,637,576,1909,"#tech, #data",28932
+P81,YouTube,Video,28-08-2024,542,982,6,12749,"#fun, #music",10435
+P82,Twitter,Image,31-08-2024,2112,754,308,1284,"#fun, #data",45078
+P83,Facebook,Image,03-09-2024,3934,268,258,8596,"#music, #AI",14296
+P84,Twitter,Reel,06-09-2024,114,368,656,8060,"#fun, #education, #food",31445
+P85,Twitter,Image,09-09-2024,2618,719,457,13033,"#education, #fun, #tech",14245
+P86,Facebook,Text,12-09-2024,2077,465,41,7843,"#music, #AI, #education, #data",30124
+P87,YouTube,Video,15-09-2024,2745,420,164,7706,"#data, #travel, #music",30899
+P88,YouTube,Reel,18-09-2024,1545,658,13,6301,"#data, #travel, #music, #health",44919
+P89,Facebook,Story,21-09-2024,441,327,237,19690,"#travel, #data, #education, #AI",44225
+P90,Twitter,Video,24-09-2024,4564,686,103,17421,"#fun, #fitness, #AI",36247
+P91,Twitter,Text,27-09-2024,4524,234,663,6486,"#data, #tech",30222
+P92,YouTube,Video,30-09-2024,3611,828,212,18725,"#AI, #data, #fitness, #fun",27211
+P93,Instagram,Text,03-10-2024,2328,243,135,11147,"#food, #fun, #music",38220
+P94,Instagram,Text,06-10-2024,3149,693,408,9216,"#health, #data, #tech",27646
+P95,Instagram,Story,09-10-2024,250,673,156,19834,"#education, #health, #tech",39649
+P96,Twitter,Video,12-10-2024,4925,984,58,12823,"#health, #food, #travel",24049
+P97,Twitter,Story,15-10-2024,3154,836,124,5280,"#tech, #fun, #data",15069
+P98,YouTube,Story,18-10-2024,4648,383,677,2868,"#data, #travel, #tech",33580
+P99,Instagram,Video,21-10-2024,2504,681,632,12539,"#health, #tech, #food",32843
+P100,YouTube,Image,24-10-2024,3695,617,591,7155,"#tech, #AI, #music, #fitness",3849
